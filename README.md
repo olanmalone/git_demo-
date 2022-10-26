@@ -1,2 +1,2 @@
-# learning_git
+# git_demo
 Learning 
