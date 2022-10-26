@@ -2,3 +2,4 @@ test 2
 Line 2
 locally added line
 Line 4 local
+Loine 5 local
