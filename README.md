@@ -1,2 +1,2 @@
-# learning_git
-Learning 
+# git_demo
+Learning demo for Paul
